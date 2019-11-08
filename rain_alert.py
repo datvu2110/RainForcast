@@ -36,8 +36,8 @@ else:
 	messageHTML = 'Low temparture: %s<br> High temparature: %s <br><br> At 8: %s&#37 chance of rain<br>At 5: %s&#37 chance of rain<br><br> You don&#39t need to bring an umbrella'%(min_temp, max_temp, morning_rain_per, evening_rain_per)
 
 email = 'camryutd@gmail.com'
-password = "762261Pf!"
-send_to_email = "vudatderek@gmail.com"
+password = "YourPassword"
+send_to_email = "YOUR_EMAIL"
 subject = "INFO | Today's Weather"
 
 
